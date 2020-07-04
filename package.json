@@ -1,0 +1,11 @@
+{
+  "name": "discover-atmosphere-with-us",
+  "version": "1.0.0",
+  "description": "A Pen created on CodePen.io. Original URL: [https://codepen.io/alenvuletic/pen/xwNxQK](https://codepen.io/alenvuletic/pen/xwNxQK).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
